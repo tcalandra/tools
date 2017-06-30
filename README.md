@@ -1,2 +1,2 @@
 # tools
-A grouping of tools I have created or modified from others to use at work
+This repository is a grouping of tools I have created or modified from google searches to use at work. Please read all the code prior to executing in your environment. This code has not been tested outside of my working environment. The code in this repository is not covered under any warranty. Use at your own risk and modify as you feel applicable. If you have any questions please reach out to me.
